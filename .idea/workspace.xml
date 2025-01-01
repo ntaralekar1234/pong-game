@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4f9576-0491-4757-803e-43974dbc4531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b4f9576-0491-4757-803e-43974dbc4531" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
